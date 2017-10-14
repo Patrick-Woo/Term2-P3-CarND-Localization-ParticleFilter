@@ -1,4 +1,4 @@
-# Extended Kalman Filter
+# Patricle-filter localization
 This Project is the eighth task (Project 3 of Term 2) of the Udacity Self-Driving Car Nanodegree program. 
 
 The main goal of the project is to apply Particle Filter to localize a self driving car using C++.
@@ -46,7 +46,7 @@ cmake ..
 sudo make
 ./particle_filter
 ```
-For details, see [README_old.md](README_old.md)
+For details, see [README-old.md](README-old.md)
 
 
 
